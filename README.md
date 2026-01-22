@@ -19,5 +19,5 @@ brew install mulle-objc/software/mulle-clang-project
 Name                    | Description                               | Project
 ------------------------|-------------------------------------------|-------------
 mulle-clang-project     | Objective-C compiler for **mulle-objc**.  | [[github](https://github.com/mulle-cc/mulle-clang-project)]
-mulle-clang-homebrew    | Shim to use mulle-clang inside homebrew formulas | [[github](https://github.com/mulle-cc/mulle-clang-homebrew)
+mulle-objc-developer    | mulle-sde SDK to develop MulleObjC tools  | [[github](https://github.com/mulle-objc/mulle-objc-developer)
 <!-- mulle-gdb               | Debugger for **mulle-objc**.              | [[github](https://github.com/mulle-cc/mulle-gdb)] -->
